@@ -6,21 +6,13 @@ A REST API for fetching cryptocurrency market updates from CoinGecko. Built with
 
 ### API Demo
 
-Watch the complete demo of the API in action:
-
-https://github.com/Optimus-NP/VettyAssignment/blob/main/docs/Demo.mov
-
-<video src="https://github.com/Optimus-NP/VettyAssignment/raw/main/docs/Demo.mov" width="800" controls></video>
+[![Watch API Demo](https://img.shields.io/badge/▶-Watch%20API%20Demo-blue?style=for-the-badge&logo=video)](https://raw.githubusercontent.com/Optimus-NP/VettyAssignment/refs/heads/main/docs/Demo.mov)
 
 > The demo video shows the complete workflow: authentication, fetching coins, categories, market data with INR/CAD prices, and filtering capabilities.
 
 ### Unit Tests Demo
 
-Watch the unit tests execution with coverage results:
-
-https://github.com/Optimus-NP/VettyAssignment/blob/main/docs/unitTests.mov
-
-<video src="https://github.com/Optimus-NP/VettyAssignment/raw/main/docs/unitTests.mov" width="800" controls></video>
+[![Watch Unit Tests](https://img.shields.io/badge/▶-Watch%20Unit%20Tests-green?style=for-the-badge&logo=pytest)](https://raw.githubusercontent.com/Optimus-NP/VettyAssignment/refs/heads/main/docs/unitTests.mov)
 
 > The unit tests video demonstrates all 31 tests passing with 97.25% code coverage, exceeding the 80% requirement.
 
